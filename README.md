@@ -1,8 +1,6 @@
 <img src="./assets/banner.gif" width="100%" alt="Banner - Gabriel da Silva Martins" />
 
-<td valign="top">
-<h1>Gabriel da Silva Martins</h1>
-
+<hr>
 <p>
 Graduando em <b>Engenharia da Computação</b> (Senac – Santo Amaro) • Conclusão prevista: <b>2029</b><br/>
 São Paulo – SP • Em busca de <b>estágio</b> (Eng. da Computação / TI / Desenvolvimento)
